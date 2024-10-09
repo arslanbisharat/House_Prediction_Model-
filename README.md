@@ -1,4 +1,3 @@
-Here's a draft README for your project without using commas:
 # House Price Prediction Model
 
 ## Project Overview
